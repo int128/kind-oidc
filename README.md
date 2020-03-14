@@ -3,7 +3,7 @@
 This document explains how you can set up OpenID Connect (OIDC) authentication on a Kubernetes cluster using Kind.
 
 This is for Kubernetes tool developers.
-You can test if your tool and OIDC provider works with a real cluster.
+You can test your tool and OIDC provider work with a real cluster.
 
 
 ## Overview
